@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_project",
+  "version": "1.0.0",
+  "description": "project using node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/languiano805/NodeJS_project.git"
+  },
+  "author": "leonardo anguiano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/languiano805/NodeJS_project/issues"
+  },
+  "homepage": "https://github.com/languiano805/NodeJS_project#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
